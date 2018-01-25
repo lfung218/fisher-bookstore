@@ -1,0 +1,10 @@
+/Users/lfung218/Documents/ACCTMIS 3610 Feng.486/Fisher.Bookstore/bin/Debug/netcoreapp2.0/Fisher.Bookstore.deps.json
+/Users/lfung218/Documents/ACCTMIS 3610 Feng.486/Fisher.Bookstore/bin/Debug/netcoreapp2.0/Fisher.Bookstore.runtimeconfig.json
+/Users/lfung218/Documents/ACCTMIS 3610 Feng.486/Fisher.Bookstore/bin/Debug/netcoreapp2.0/Fisher.Bookstore.runtimeconfig.dev.json
+/Users/lfung218/Documents/ACCTMIS 3610 Feng.486/Fisher.Bookstore/bin/Debug/netcoreapp2.0/Fisher.Bookstore.dll
+/Users/lfung218/Documents/ACCTMIS 3610 Feng.486/Fisher.Bookstore/bin/Debug/netcoreapp2.0/Fisher.Bookstore.pdb
+/Users/lfung218/Documents/ACCTMIS 3610 Feng.486/Fisher.Bookstore/obj/Debug/netcoreapp2.0/Fisher.Bookstore.csproj.CoreCompileInputs.cache
+/Users/lfung218/Documents/ACCTMIS 3610 Feng.486/Fisher.Bookstore/obj/Debug/netcoreapp2.0/Fisher.Bookstore.AssemblyInfoInputs.cache
+/Users/lfung218/Documents/ACCTMIS 3610 Feng.486/Fisher.Bookstore/obj/Debug/netcoreapp2.0/Fisher.Bookstore.AssemblyInfo.cs
+/Users/lfung218/Documents/ACCTMIS 3610 Feng.486/Fisher.Bookstore/obj/Debug/netcoreapp2.0/Fisher.Bookstore.dll
+/Users/lfung218/Documents/ACCTMIS 3610 Feng.486/Fisher.Bookstore/obj/Debug/netcoreapp2.0/Fisher.Bookstore.pdb
