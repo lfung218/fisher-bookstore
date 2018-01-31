@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lfung218/Documents/ACCTMIS 3610 Feng.486/Fisher.Bookstore/Fisher.Bookstore.csproj",
+      "projectUniqueName": "/Users/lfung218/Documents/ACCTMIS3610/Fisher.Bookstore/Fisher.Bookstore.csproj",
       "projectName": "Fisher.Bookstore",
-      "projectPath": "/Users/lfung218/Documents/ACCTMIS 3610 Feng.486/Fisher.Bookstore/Fisher.Bookstore.csproj",
+      "projectPath": "/Users/lfung218/Documents/ACCTMIS3610/Fisher.Bookstore/Fisher.Bookstore.csproj",
       "packagesPath": "/Users/lfung218/.nuget/packages/",
-      "outputPath": "/Users/lfung218/Documents/ACCTMIS 3610 Feng.486/Fisher.Bookstore/obj/",
+      "outputPath": "/Users/lfung218/Documents/ACCTMIS3610/Fisher.Bookstore/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
